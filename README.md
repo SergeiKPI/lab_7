@@ -1,4 +1,1 @@
-[![Build Status](https://travis-ci.org/MaxDmytruk/Javax-Validation.svg?branch=master)](https://travis-ci.org/MaxDmytruk/Javax-Validation)
-[![codecov](https://codecov.io/gh/MaxDmytruk/Javax-Validation/branch/master/graph/badge.svg)](https://codecov.io/gh/MaxDmytruk/Javax-Validation)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/da83f2f9c0d24095a6d3c82f228731ff)](https://www.codacy.com/app/MaxDmytruk/Javax-Validation?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MaxDmytruk/Javax-Validation&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/da83f2f9c0d24095a6d3c82f228731ff)](https://www.codacy.com/app/MaxDmytruk/Javax-Validation?utm_source=github.com&utm_medium=referral&utm_content=MaxDmytruk/Javax-Validation&utm_campaign=Badge_Coverage)
+
